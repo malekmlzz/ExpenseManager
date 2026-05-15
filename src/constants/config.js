@@ -2,7 +2,7 @@
 export const API_CONFIG = {
   // در شبیه‌ساز اندروید: 'http://10.0.2.2:8000/api'
   // در گوشی واقعی: 'http://192.168.1.XXX:8000/api'
-  BASE_URL: 'http://192.168.1.134:8000/api',
+  BASE_URL: 'https://expensemanager-28bj.onrender.com/api',
   TIMEOUT: 10000,
 };
 
